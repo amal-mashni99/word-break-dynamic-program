@@ -1,0 +1,12 @@
+	word
+	 break
+		b
+		r
+		e 
+		a 
+		k 
+		br
+		 bre
+		  brea
+		   ak
+		    problem
